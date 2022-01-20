@@ -1,4 +1,3 @@
-package Estudos.POO_CEV.Aula05;
 import java.util.*;
 
 public class Exerc {
