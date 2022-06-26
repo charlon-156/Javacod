@@ -1,0 +1,32 @@
+CLASSES
+
+Cada classe tem uma vida e ataque base 
+que sera somado mais o resultado de um
+1d6.
+
+//TABELA 1 - ATK E PV BASIC;\\
+Arqueiro 
+Vida - base: 14
+Ataque-base: 26
+
+Guerreiro
+Vida - base: 21
+Ataque-base: 19
+
+Mago
+Vida - base: 17
+Ataque-base: 23
+
+Assassino 
+Vida - base: 12
+Ataque-base: 28
+
+Clérigo 
+Vida - base: 23
+Ataque-base: 17
+
+Templario
+Vida - base: 28
+Ataque-base: 12
+
+
