@@ -4,7 +4,8 @@ public class Temperatura {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         
-      
+        //Conversor de Temperatura - in devesenvolvimento
+
         System.out.println("Progama para converter temperaturas");
         System.out.println("Qual o tipo de temperatura que você que conventer: ");
         System.out.println(" ");

@@ -1,5 +1,8 @@
 package IFRN.Primus;
 import java.util.Scanner;
+
+//Codigo recebe três notas e retorna media de aluno
+
 public class Aluno {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

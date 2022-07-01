@@ -1,7 +1,9 @@
 package IFRN.Primus;
 /*
 Atividade 2 de Hulliane, sobre os dias do meses de 1 a 12
+Digite um numero e retorne seu mês - exemplo 1 - Janeiro
 */
+
 import java.util.Scanner;
 public class Calendario{
     public static void main(String[] args) {
