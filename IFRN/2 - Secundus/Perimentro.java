@@ -1,6 +1,8 @@
 package IFRN.Secundus;
 import java.util.Scanner;
 
+//Calculadora de perimetro de um circulo em java 
+
 public class Perimentro {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
@@ -12,7 +14,7 @@ public class Perimentro {
         double pi = Math.PI;
         double perimetro = 2 * pi * raio;
 
-        System.out.println("Valor do perimetro = "+perimetro);
+        System.out.println("Valor do perimetro = "+ Math.round(perimetro*100)/100);
         
         in.close();
     }
