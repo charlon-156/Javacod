@@ -1,4 +1,4 @@
-package IFRN.Sextus;
+
 import java.util.Scanner;
 public class AtividadeCharlon04 {
     public static void main(String[] args) {

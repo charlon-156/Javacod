@@ -1,4 +1,4 @@
-package IFRN.Primus;
+  
 import java.util.Scanner;
 
 //O usario deve digitir um valor para A e uma para B, depois os valores devem ser trocados 

@@ -1,4 +1,4 @@
-package IFRN.Quintus;
+  
 import java.util.Scanner;
 public class CharlonAtividade03 {
     public static void main(String[] args) {

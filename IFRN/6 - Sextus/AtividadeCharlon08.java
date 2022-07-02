@@ -1,4 +1,4 @@
-package IFRN.Sextus;
+
 import java.util.*;
 
 public class AtividadeCharlon08 {

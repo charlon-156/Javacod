@@ -1,4 +1,4 @@
-package IFRN.Septem;
+  
 public class Calculadora {
     public static void main(String[] args) {
         int nota1 = 2083701730;

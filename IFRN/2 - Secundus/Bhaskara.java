@@ -1,4 +1,3 @@
-package IFRN.Secundus;
 import java.util.Scanner;
 
 //Claculadora de Bhaskara in Java

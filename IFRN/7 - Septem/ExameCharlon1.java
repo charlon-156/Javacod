@@ -1,4 +1,4 @@
-package IFRN.Septem;
+  
 import java.util.*;
 public class ExameCharlon1 {
     public static void main(String[] args) {

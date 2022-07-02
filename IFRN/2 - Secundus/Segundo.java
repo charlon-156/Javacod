@@ -1,4 +1,3 @@
-package IFRN.Secundus;
 import java.util.Scanner;
 
 //Conversor de segundos para hora minuto e segundo em Java

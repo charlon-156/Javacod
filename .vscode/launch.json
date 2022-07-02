@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch CanetaMain",
+            "request": "launch",
+            "mainClass": "Aulas.A_0111.CanetaMain",
+            "projectName": "Javacod_850d820b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Aula1",
+            "request": "launch",
+            "mainClass": "Cod.Aula1",
+            "projectName": "Javacod_850d820b"
+        },
+        {
+            "type": "java",
             "name": "Launch TesteQ3",
             "request": "launch",
             "mainClass": "TesteQ3",
@@ -302,35 +316,35 @@
             "type": "java",
             "name": "Launch AtividadeCharlon05",
             "request": "launch",
-            "mainClass": "IFRN.Sextus.AtividadeCharlon05",
+            "mainClass": " .AtividadeCharlon05",
             "projectName": "Javacod_8fd0a23e"
         },
         {
             "type": "java",
             "name": "Launch AtividadeCharlon04",
             "request": "launch",
-            "mainClass": "IFRN.Sextus.AtividadeCharlon04",
+            "mainClass": " .AtividadeCharlon04",
             "projectName": "Javacod_8fd0a23e"
         },
         {
             "type": "java",
             "name": "Launch AtividadeCharlon03",
             "request": "launch",
-            "mainClass": "IFRN.Sextus.AtividadeCharlon03",
+            "mainClass": " .AtividadeCharlon03",
             "projectName": "Javacod_8fd0a23e"
         },
         {
             "type": "java",
             "name": "Launch AtividadeCharlon02",
             "request": "launch",
-            "mainClass": "IFRN.Sextus.AtividadeCharlon02",
+            "mainClass": " .AtividadeCharlon02",
             "projectName": "Javacod_8fd0a23e"
         },
         {
             "type": "java",
             "name": "Launch AtividadeCharlon01",
             "request": "launch",
-            "mainClass": "IFRN.Sextus.AtividadeCharlon01",
+            "mainClass": " .AtividadeCharlon01",
             "projectName": "Javacod_8fd0a23e"
         },
         {

@@ -1,4 +1,4 @@
-package IFRN.Septem;
+  
 public class Fim {
     public static void main(String[] args) {
         int fim[][] = {{7 , 3},{2 , 4}};

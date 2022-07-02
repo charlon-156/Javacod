@@ -1,4 +1,3 @@
-package IFRN.Secundus;
 import java.util.Scanner;
 
 //Programa desenvolvido para inverter o número

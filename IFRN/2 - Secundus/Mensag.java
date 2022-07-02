@@ -1,4 +1,3 @@
-package IFRN.Secundus;
 import java.util.Scanner;
 
 //Sistema básico de recolhimento de nome

@@ -1,4 +1,3 @@
-package IFRN.Primus;
 import java.util.Scanner;
 public class Area {
     /*

@@ -1,4 +1,3 @@
-package IFRN.Secundus;
 import java.util.Scanner;
 
 //Recebe Nome, idade e matricula de aluno - a pegadinha é que a matricula padrão do IF é muito extensa

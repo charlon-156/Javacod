@@ -1,4 +1,4 @@
-package IFRN.Tertium;
+  
 import java.util.Scanner;
 
 // Faça um algoritmo que solicita ao usuário, a altura (alt) e o sexo de uma pessoa e exibe uma mensagem com o peso ideal. Para homens, calcular o peso ideal usando a fórmula peso ideal = 72.7 x alt - 58 e, para mulheres, peso ideal = 62.1 x alt - 44.7.

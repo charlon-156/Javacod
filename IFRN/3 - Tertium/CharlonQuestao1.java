@@ -1,4 +1,3 @@
-package IFRN.Tertium;
 import java.util.Scanner;
 public class CharlonQuestao1 {
 

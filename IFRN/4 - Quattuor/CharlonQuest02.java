@@ -1,4 +1,4 @@
-package IFRN.Quattuor;
+  
 import java.util.Scanner;
 public class CharlonQuest02 {
     public static void main(String[] args) {
