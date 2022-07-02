@@ -17,7 +17,7 @@ public class ExameCharlon4 {
     for (int i = 0; i < matrix.length; i++) {
         
         for ( int j = 0; j < matrix.length; j++) {
-            if (j==x) {
+            if (j==i) {
                 System.out.print(" ["+matrix[i][j]+"] ");
             } else {
                 System.out.print(" [ x ] "); 
@@ -25,9 +25,10 @@ public class ExameCharlon4 {
         }
     }
 
+    
     //triangulo superior
-    for (int i; i < matrix.length; i++){
-        for(int j; j < matrix.length; j++){
+    for (int i = 0; i < matrix.length; i++){
+        for(int j = 0; j < matrix.length; j++){
             if (j>i){
                 System.out.print(" ["+matrix[i][j]+"] ");
             } else {
@@ -37,8 +38,8 @@ public class ExameCharlon4 {
     }
     
     //triangulo inferior
-    for (int i; i < matrix.length; i++){
-        for(int j; j < matrix.length; j++){
+    for (int i =0 ; i < matrix.length; i++){
+        for(int j = 0; j < matrix.length; j++){
             if (i>j){
                 System.out.print(" ["+matrix[i][j]+"] ");
             } else {
@@ -48,8 +49,8 @@ public class ExameCharlon4 {
     }
     
     //exceto a diagonal principal
-    for (int i; i < matrix.length; i++){
-        for(int j; j < matrix.length; j++){
+    for (int i = 0; i < matrix.length; i++){
+        for(int j = 0; j < matrix.length; j++){
             if (i!=j){
                 System.out.print(" ["+matrix[i][j]+"] ");
             } else {
