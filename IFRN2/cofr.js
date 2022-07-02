@@ -21,7 +21,7 @@ function validarSenha() {
         t++;
     } 
     if (t==0) {
-        alert("cuuu")
+        alert("uuu")
     }
 
 
