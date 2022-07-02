@@ -1,5 +1,8 @@
   
 import java.util.Scanner;
+
+//Escreva um algoritmo que leia um valor inicial A e imprima a sequência de valores do cálculo de A! e o seu resultado. Exemplo: 5! = 5 X 4 X 3 X 2 X 1 = 120.
+
 public class CharlonQuest08 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
@@ -16,6 +19,7 @@ public class CharlonQuest08 {
 
         }   
             System.out.println(" = "+result);
+
         in.close();
     }
 }

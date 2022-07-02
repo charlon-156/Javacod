@@ -1,5 +1,8 @@
   
 import java.util.Scanner;
+
+//Desenvolver um algoritmo que leia um número N maior que 1000 e menor que 1999, calcule e escreva a média aritmética, a quantidade de valores positivos, a quantidade de números que quando divididos por 11 obtemos resto = 5, a quantidade de valores negativos de 1 a N.
+
 public class CharlonQuest09 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

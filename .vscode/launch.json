@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ExameCharlon1",
+            "request": "launch",
+            "mainClass": "ExameCharlon1",
+            "projectName": "Javacod_850d820b"
+        },
+        {
+            "type": "java",
             "name": "Launch CanetaMain",
             "request": "launch",
             "mainClass": "Aulas.A_0111.CanetaMain",

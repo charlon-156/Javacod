@@ -1,11 +1,15 @@
   
 import java.util.Scanner;
+
+//Faça um programa que decida se duas strings lidas do teclado são palíndromas mútuas, ou seja, se uma é igual à outra quando lida de traz para frente. Exemplo: amor e roma.
+
 public class AtividadeCharlon06 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
         System.out.println("Digite a primeira palavra: ");
         String p1 = in.nextLine();
+
         System.out.println("Digite a primeira palavra: ");
         String p2 = in.nextLine();
 

@@ -1,8 +1,12 @@
  
 import java.util.*;
+
+//Faça um programa que leia o nome, o custo e o preço de 50 produtos. Ao final deverá relacionar os produtos que:
+
 public class AtividadeCharlon12 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
+
         String nome [] = new String[50];
         double preco [] = new double[50];
         double custo [] = new double[50];

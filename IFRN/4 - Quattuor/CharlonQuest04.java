@@ -1,5 +1,8 @@
   
 import java.util.Scanner;
+
+//Escreva um algoritmo que solicita ao usuário as 3 notas de um aluno e uma letra. Se a letra for A a função calcula a média aritmética das notas do aluno e se for P, a sua média ponderada (pesos: 5, 3 e 2). A média calculada também deve ser exibida em uma mensagem.
+
 public class CharlonQuest04 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
@@ -25,9 +28,11 @@ public class CharlonQuest04 {
             case "a":
                 System.out.println("Sua média simples foi "+mediasimples);
                 break;
+
             case "p":
                 System.out.println("Sua média ponderada foi "+mediacomposta);
                 break;
+
             default:
                 System.out.println("Sintax invalida");
                 break;

@@ -1,7 +1,7 @@
   
 import java.util.Scanner;
 
-//Escrever um algoritmo que leia o nome de um aluno e as notas das três provas que ele obteve no semestre. No final informar o nome do aluno e a sua média (aritmética).
+//Escrever um algoritmo que leia o nome de dois vendedores de uma loja, o salário fixo de cada um e o total de vendas efetuadas por cada vendedor no mês (em dinheiro). Sabendo que o primeiro vendedor ganha 15% de comissão sobre suas vendas efetuadas e o segundo vendedor ganhar 20% de comissão sobre suas vendas efetuadas, seu programa deverá informar o nome, o salário fixo e salário no final do mês, dos dois vendedores.
 
 public class CharlonQuestao2 {
     public static void main(String[] args) {

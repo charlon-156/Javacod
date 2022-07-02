@@ -1,5 +1,11 @@
   
 import java.util.Scanner;
+
+/*Faça um algoritmo para ler quatro valores reais do teclado, calcular e imprimir na tela:
+a)A soma desses valores.
+b)O produto do primeiro valor pelo terceiro valor.
+c)O quociente do segundo pelo quarto valor, caso este não seja 0. Se for 0, imprimir mensagem: “Impossível divisão por zero”*/
+
 public class CharlonAtividade06 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

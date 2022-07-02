@@ -1,5 +1,8 @@
  
 import java.util.Scanner;
+
+//Crie um programa que leia um vetor de 30 números inteiros e gere um segundo vetor cujas posições pares são o dobro do vetor original e as ímpares o triplo.
+
 public class AtividadeCharlon09 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
@@ -12,6 +15,7 @@ public class AtividadeCharlon09 {
             v[c] = in.nextInt();
             z[c] = v[c];
         }
+
         in.close();
 
         for (int i = 0; i <z.length; i++) {

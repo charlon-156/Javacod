@@ -1,11 +1,17 @@
   
 import java.util.Scanner;
+
+//Faça um algoritmo que leia que dado um limite inferior e superior, imprimir a soma de todos os números pares contidos nesse intervalo.
+
 public class CharlonAtividade05 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
+        
         System.out.println("Digite o valor maximo: ");
         int max = in.nextInt();
+        
         System.out.println("Digite o valor minimo: ");
+        
         int min = in.nextInt();
         int soma = 0;
 

@@ -1,5 +1,8 @@
 
 import java.util.Scanner;
+
+//Faça um algoritmo que construa três vetores inteiros A, B e C de dimensão 6. O terceiro vetor deverá conter a soma dos outros dois vetores. Em seguida mostrar todos os vetores.
+
 public class AtividadeCharlon07 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
@@ -11,6 +14,7 @@ public class AtividadeCharlon07 {
         for (int c = 0; c < x.length; c++) {
             System.out.println("Digite o valor do 1° vetor "+"["+(c+1)+"]");
             x[c] = in.nextInt();
+
             System.out.println("Digite o valor do 2° vetor "+"["+(c+1)+"]");
             y[c] = in.nextInt();
         }

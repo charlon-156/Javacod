@@ -1,6 +1,8 @@
   
 import java.util.Scanner;
+
 // Faça um algoritmo que solicita ao usuário a idade de um nadador e exibe uma mensagem com a idade e a categoria desse nadador de acordo com a tabela abaixo:
+
 public class CharlonQuestao10 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
