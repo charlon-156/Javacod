@@ -13,48 +13,58 @@ public class ExameCharlon4 {
         }
     }
 
+    System.out.println("\nDiagona Principal");
+
     // diagonal principal
     for (int i = 0; i < matrix.length; i++) {
-        
+        System.out.println("");
         for ( int j = 0; j < matrix.length; j++) {
             if (j==i) {
                 System.out.print(" ["+matrix[i][j]+"] ");
             } else {
-                System.out.print(" [ x ] "); 
+                System.out.print(" [x] "); 
             }
         }
     }
 
+    System.out.println("\n\nTriangulo superior");
     
     //triangulo superior
     for (int i = 0; i < matrix.length; i++){
+        System.out.println("");
         for(int j = 0; j < matrix.length; j++){
             if (j>i){
                 System.out.print(" ["+matrix[i][j]+"] ");
             } else {
-                System.out.print(" [ x ] ");
+                System.out.print(" [x] ");
             }
         }
     }
+
+    System.out.println("\n\nTriangulo inferior");
     
     //triangulo inferior
     for (int i =0 ; i < matrix.length; i++){
+        System.out.println("");
         for(int j = 0; j < matrix.length; j++){
             if (i>j){
                 System.out.print(" ["+matrix[i][j]+"] ");
             } else {
-                System.out.print(" [ x ] ");
+                System.out.print(" [x] ");
             }
         }
     }
+
+    System.out.println("\n\nTudo menos a identidade");
     
     //exceto a diagonal principal
     for (int i = 0; i < matrix.length; i++){
+        System.out.println("");
         for(int j = 0; j < matrix.length; j++){
             if (i!=j){
                 System.out.print(" ["+matrix[i][j]+"] ");
             } else {
-                System.out.print(" [ x ] ");
+                System.out.print(" [x] ");
             }
         }
     }
